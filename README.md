@@ -9,7 +9,7 @@ or go to
 
 the files that are viewable are .ipynb
 If you decied to recompile these yourself then I would recomend using tensorflow gpu
-Libaries:   Tensorflow-gpu /n
+Libaries:   Tensorflow-gpu \n
             keras/n
             numpy,
             pillow
