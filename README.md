@@ -23,5 +23,8 @@ The order that I did these in was:
                                     natural images,
                                     face reognition,
                                     live face cam
-
+                                    
+                                   
+                                   
+To show the face cam look at face cam proof.png
 Trae Primm
