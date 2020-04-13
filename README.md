@@ -9,9 +9,9 @@ or go to
 
 the files that are viewable are .ipynb
 If you decied to recompile these yourself then I would recomend using tensorflow gpu
-Libaries:   Tensorflow-gpu
-            keras
-            numpy
+Libaries:   Tensorflow-gpu /n
+            keras/n
+            numpy,
             pillow
             pandas
             matplotlib
