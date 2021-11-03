@@ -26,7 +26,9 @@ The order that I did these in was:
                                     
                                    
                                    
-To show the face cam look at face cam proof.png
+Example of face recognition.
+
+![alt text](https://github.com/TraePrimm/Keras-tutorial/blob/master/face_proof.png?raw=true)
 
 
 Trae Primm
